@@ -19,8 +19,7 @@
 
 ## Deployment
 - Live site: (https://golden-axolotl-0155f4.netlify.app)  
-- Source code: [Your GitHub repo URL here]
-
+- Source code: (https://github.com/mirricoder/Shoehaven.git)
 
 
 
